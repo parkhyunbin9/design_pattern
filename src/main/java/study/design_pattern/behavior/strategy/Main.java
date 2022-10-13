@@ -43,6 +43,7 @@ public class Main {
         System.out.println("memberE = " + userE);
         System.out.println();
         System.out.println();
+
         Product book = new Product("Book", 5000L, 100);
         Product computer = new Product("Computer", 30000L, 30);
         Product phone = new Product("Phone", 10000L, 60);
