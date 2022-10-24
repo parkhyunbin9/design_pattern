@@ -15,7 +15,7 @@
 - 옵저버 (Observer)
 - [전략 (Strategy)](./strategy/StrategyPattern.md)
 - 커맨드 (Command)
-- 상태 (State)
+- [상태 (State)](./state/State.md)
 - 비지터 (Visitor)
 - 이터레이터 (Iterator)
 - 인터프리터 (Interpreter)
