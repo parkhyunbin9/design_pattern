@@ -101,3 +101,8 @@ _context 또는
 - 알고리즘의 갯수가 적거나, 자주 변경되지 않는 경우 패턴의 구조와 방식으로 코드의 복잡도가 올라간다.
 - 클라이언트가 적절한 전략을 선택할 수 있도록, 전략의 내용에 대해 알고 있어야한다.
 - 함수형 프로그래밍 방식으로 심플하게 같은 효과를 거둘 수 있다.
+
+
+#### 예시
+- Java Comparator
+- [Spring의 ApplicationContext](useCase/Spring/ApplicationContenxt.md)
