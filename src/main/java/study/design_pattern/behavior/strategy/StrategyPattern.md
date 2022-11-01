@@ -53,7 +53,7 @@ Strategy Pattern
 
 
 ### 구조
-![전략 패턴](../../../../../resources/image/strategy3.png)
+![전략 패턴](../../../../../resources/image/strategy11.png)
 
 
 
@@ -86,7 +86,7 @@ context가 직접적으로 전략을 선택하는 것이 아니라, 클라이언
 _context 또는
 기타 로직의 변경을 변경하지 않아도 새로운 전략을 추가하거나 기존 전략을 수정할수 있게 되었다._
 
-![전략 패턴](../../../../../resources/image/strategy2.png) 
+
 
 ### 장/단점
 

@@ -9,7 +9,7 @@
 ----------------------------------------------------------------------
 
 #### 종류
-- 템플릿 메서드 (Template Method)
+- [템플릿 메서드 (Template Method)](./template_method/TemplateMethod.md)
 - 중재자 (Mediator)
 - 책임 연쇄 (Chain of Responsibility)
 - 옵저버 (Observer)
